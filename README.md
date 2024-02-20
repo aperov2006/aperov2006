@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aperov2006 (Alexei Perov)
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on web-development
 - 📫 How to reach me https://t.me/aperov2006
 
